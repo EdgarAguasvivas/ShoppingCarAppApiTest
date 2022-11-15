@@ -1,0 +1,12 @@
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Domain\bin\Debug\net5.0\ShoppingCarApp.Domain.deps.json
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Domain\bin\Debug\net5.0\ShoppingCarApp.Domain.dll
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Domain\bin\Debug\net5.0\ref\ShoppingCarApp.Domain.dll
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Domain\bin\Debug\net5.0\ShoppingCarApp.Domain.pdb
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Domain\obj\Debug\net5.0\ShoppingCarApp.Domain.csprojAssemblyReference.cache
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Domain\obj\Debug\net5.0\ShoppingCarApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Domain\obj\Debug\net5.0\ShoppingCarApp.Domain.AssemblyInfoInputs.cache
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Domain\obj\Debug\net5.0\ShoppingCarApp.Domain.AssemblyInfo.cs
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Domain\obj\Debug\net5.0\ShoppingCarApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Domain\obj\Debug\net5.0\ShoppingCarApp.Domain.dll
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Domain\obj\Debug\net5.0\ref\ShoppingCarApp.Domain.dll
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Domain\obj\Debug\net5.0\ShoppingCarApp.Domain.pdb

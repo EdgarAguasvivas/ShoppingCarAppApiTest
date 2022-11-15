@@ -1,0 +1,12 @@
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Custom\bin\Debug\net5.0\ShoppingCarApp.Custom.deps.json
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Custom\bin\Debug\net5.0\ShoppingCarApp.Custom.dll
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Custom\bin\Debug\net5.0\ref\ShoppingCarApp.Custom.dll
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Custom\bin\Debug\net5.0\ShoppingCarApp.Custom.pdb
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Custom\obj\Debug\net5.0\ShoppingCarApp.Custom.csprojAssemblyReference.cache
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Custom\obj\Debug\net5.0\ShoppingCarApp.Custom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Custom\obj\Debug\net5.0\ShoppingCarApp.Custom.AssemblyInfoInputs.cache
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Custom\obj\Debug\net5.0\ShoppingCarApp.Custom.AssemblyInfo.cs
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Custom\obj\Debug\net5.0\ShoppingCarApp.Custom.csproj.CoreCompileInputs.cache
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Custom\obj\Debug\net5.0\ShoppingCarApp.Custom.dll
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Custom\obj\Debug\net5.0\ref\ShoppingCarApp.Custom.dll
+C:\Users\eaguasvivas\Documents\ShoppingCarApp\ShoppingCarApp.Custom\obj\Debug\net5.0\ShoppingCarApp.Custom.pdb
